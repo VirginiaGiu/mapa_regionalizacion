@@ -4,7 +4,7 @@ subtitle: "Octubre 2024"
 format: html
 ---
 
-## Objetivo
+## Objetivo del 15 de noviembre
 
 Este mapa tiene como objetivo mostrar la dependencia de los efectores en relación a la nueva regionalización provincial. Los efectores de salud se corresponden con la resolución 3044 del año 2023.
 
